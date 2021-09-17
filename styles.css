@@ -1,0 +1,109 @@
+body{
+background-color: black;
+color: white
+}
+
+ul{
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+background-color: black;
+}
+
+li a{
+display: grid;
+float: left;
+padding: 10px;
+border: 2px solid black;
+border-radius: 5px;
+margin-left: 10%;
+margin-right: 10%;
+min-width: 60%;
+text-align: center;
+text-decoration: none;
+color: black;
+background-color: white;
+}
+
+
+li a:hover{
+background-color: gray;
+}
+
+footer i{
+color: white;
+font-size: 85px;
+}
+
+li a#home{
+text-align: center;
+}
+/*
+footer i#github:hover{
+color: #ff2316;
+}
+
+footer i#insta:hover{
+color: #DD2A7B;
+}
+
+.sociallinks{
+display: grid;
+grid-template-columns: repeat(2, 100px);
+margin-left: 550px;
+margin-top: 1000px;
+justify-content: center;
+align-items: center;
+}
+*/
+#aboutme{
+display: grid;
+grid-template-columns: 400px;
+border: 2px solid white;
+width: 405px;
+font-size: 27px;
+box-shadow: 2px 2px 5px white;
+text-align: center;
+padding: 5px;
+font-weight: bold;
+}
+
+#whoami{
+font-size: 50px;
+font-weight: bold;
+padding: 25px;
+color: white;
+text-shadow: 1px 1px 3px white;
+}
+
+#aboutmeh{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+height: 100vh
+}
+
+#navelements{
+display: grid;
+grid-template-columns: repeat(3, auto);
+text-align: center;
+}
+
+.navs{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+main{
+background: url(https://th.bing.com/th/id/R.dad2ed6b4962110e6598222d8fa0735b?rik=JVjakas6%2fe8Cfg&pid=ImgRaw&r=0);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+
+#whoareyou{
+display: grid;
+}
