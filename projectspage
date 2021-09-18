@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Projects</title>
+    <link rel="stylesheet" type="text/css" href="projectstyle.css">
+</head>
+<body>
+  <header>
+      <div class="navbar">
+          <ul class="navelements">
+              <li class="element" id="projects">
+                  Projects
+              </li>
+              <li class="element" id="homes">
+                  Home
+              </li>
+              <li class="element" id="contactme">
+                  Contact Me
+              </li>
+          </ul>
+      </div>
+  </header>
+  <main>
+      <div class="projectors">
+          <div class="project" id="tkinter">
+              <h1>Tkinter Calculator</h1>
+              <p>Functional calculator using Python3's tkinter library.</p>
+          </div>
+          <div class="project" id="pygame">
+              <h1>Asteroid-Blast</h1>
+              <p>Hot garbage written in pygame.</p>
+          </div>
+          <div class="project" id="dokters">
+              <h1>Doctor's List</h1>
+              <p>Digital Appointment for the Doctor's written using Tkinter and sqlite3.</p>
+          </div>
+      </div>
+  </main>
+</body>
+</html>
