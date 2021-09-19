@@ -53,3 +53,8 @@ color: black;
 li:hover{
 background-color: gray;
 }
+
+.projectors a{
+text-decoration: none;
+color: black;
+}
