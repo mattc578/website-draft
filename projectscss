@@ -44,3 +44,12 @@ color: black;
 border-radius: 15px;
 margin-top: 20px;
 }
+
+.element a{
+text-decoration: none;
+color: black;
+}
+
+li:hover{
+background-color: gray;
+}
