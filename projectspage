@@ -10,13 +10,13 @@
       <div class="navbar">
           <ul class="navelements">
               <li class="element" id="projects">
-                  Projects
+                  <a href="http://localhost:63342/audiomusicplayer/projectshtml.html?_ijt=bbtacl0c4ml473h35pthkq1cik">Projects</a>
               </li>
               <li class="element" id="homes">
-                  Home
+                  <a href="http://localhost:63342/audiomusicplayer/matthewwebsite.html?_ijt=qtd5ro83pfoq9na5ce607bchcb">Home</a>
               </li>
               <li class="element" id="contactme">
-                  Contact Me
+                  <a href="">Contact Me</a>
               </li>
           </ul>
       </div>
