@@ -58,3 +58,7 @@ background-color: gray;
 text-decoration: none;
 color: black;
 }
+
+.projectors div:hover{
+background-color: white;
+}
